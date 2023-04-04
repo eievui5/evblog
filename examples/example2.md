@@ -1,0 +1,1 @@
+> You can convert all the documents in a directory by passing it into evblog :)

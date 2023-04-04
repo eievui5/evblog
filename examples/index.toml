@@ -1,0 +1,9 @@
+title = "Blog"
+
+[[tag]]
+name = "Example Document"
+description = "Examples of articles created with evblog."
+
+[[tag]]
+name = "Second Category"
+description = "You can have multiple categories too :)"

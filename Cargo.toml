@@ -1,6 +1,6 @@
 [package]
 name = "evblog"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 clap = { version = "4.2.1", features = ["derive"] }
 markdown = "1.0.0-alpha.7"
+toml = { version = "0.7.3", features = ["parse"] }
